@@ -1,6 +1,8 @@
-# xTony 🔒
+![Banner](assets/github-header-banner.png)
 
-**Security Tool Developer & CTF Player**  
+# xtony.exe </>
+
+**🔐 Creating security tools by day, breaking them in CTFs by night.**  
 *Founder, Thinking Community*  💭
 
 ## 👨‍💻 About Me
@@ -10,7 +12,7 @@ class Tony:
     def __init__(self):
         self.name = "xTony"
         self.role = "Security Tool Developer & CTF Player"
-        self.organizations = "Thinking Community Founder"
+        self.organizations = "Thinking Community Founder "
         self.skills = [
             "Reverse Engineering", 
             "Vulnerability Research",
