@@ -11,7 +11,7 @@
 class Tony:
     def __init__(self):
         self.name = "xTony"
-        self.role = "Security Tool Developer & CTF Player"
+        self.role = "Security Researcher & CTF Enthusiast"
         self.organizations = "Thinking Community Founder "
         self.skills = [
             "Reverse Engineering", 
